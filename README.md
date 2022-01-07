@@ -1,0 +1,1 @@
+# community-nvt-feed-current
