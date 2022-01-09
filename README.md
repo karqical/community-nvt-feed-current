@@ -3,10 +3,12 @@
 打版本时间 2022-01-09
 
 ## 打包成 tar.gz 格式，带压缩目录
-
+```shell
 tar -zcvf plugins.tar.gz ./plugins
 tar -zcvf scap-data.tar.gz ./scap-data
 tar -zcvf cert-data.tar.gz ./cert-data
+```
+
 
 ## 打包成 tar.gz 格式，不带压缩目录
 
