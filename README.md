@@ -7,7 +7,7 @@
 tar -zcvf plugins.tar.gz ./plugins
 tar -zcvf scap-data.tar.gz ./scap-data
 tar -zcvf cert-data.tar.gz ./cert-data
-```
+
 
 
 ## 打包成 tar.gz 格式，不带压缩目录
@@ -48,7 +48,7 @@ sudo cp -r ./plugins/ /var/lib/openvas/
 sudo cp -r ./scap-data/ /var/lib/openvas/
 sudo cp -r ./cert-data/ /var/lib/openvas/
 
-
+```
 
 
 
